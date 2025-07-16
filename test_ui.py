@@ -6,7 +6,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 import time
 
-prof_name = "周世傑"
+prof_name = ""
 
 options = webdriver.ChromeOptions()
 # 不加 headless，這樣你能看到畫面
